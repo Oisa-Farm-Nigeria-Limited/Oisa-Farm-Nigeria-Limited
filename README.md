@@ -5,4 +5,4 @@ We are located at Ojinato Ugwuoba, Oji river, Enugu Nigeria.
 
 ## Use Google Map To Locate Us
 
-![Google Map](https://goo.gl/maps/qQwbn3y46JR9TueA7)
+[Google Map](https://goo.gl/maps/qQwbn3y46JR9TueA7)
